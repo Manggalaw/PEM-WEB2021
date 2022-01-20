@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&family=Josefin+Sans&family=Pathway+Gothic+One&display=swap');
+
+.navbar-brand{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.nav-link{
+	font-family: 'Comfortaa', cursive;
+}
+
+.btn{
+	font-family: 'Comfortaa', cursive;	
+}
+
+.top{
+font-family: 'Pathway Gothic One', sans-serif;	
+}
+.btn-color-theme{
+    font-family: 'offside', cursive;
+    color: #fffffff1;
+    background-color: #25232b;
+    margin-left: 640px;
+}
+.row .card:hover{
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0, 4);
+    transform: scale(1.02);
+}
